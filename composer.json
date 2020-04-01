@@ -1,5 +1,5 @@
 {
-    "name": "sms_integration_package/sms_integration",
+    "name": "Sms/Integration/Package",
     "description": "To intrgrate with sms",
     "type": "package",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sms_integration_package\\sms_integration\\": "src/"
+            "Sms\\Integration\\Package\\": "src/"
         }
     },
     "minimum-stability": "dev"
