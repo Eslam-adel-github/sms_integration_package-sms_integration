@@ -18,6 +18,6 @@
         "psr-4": {
             "sms_integration_package\\sms_integration\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
+
 }
