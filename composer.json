@@ -1,0 +1,23 @@
+{
+    "name": "sms_integration_package/sms_integration",
+    "description": "To intrgrate with sms",
+    "type": "package",
+    "license": "MIT",
+    "version": "1.0",
+    "keywords": ["sms_integration","test_sms_integration"],
+    "authors": [
+        {
+            "name": "Eslam",
+            "email": "test@ib.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sms_integration_package\\sms_integration\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
